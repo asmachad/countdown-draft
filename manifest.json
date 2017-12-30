@@ -1,0 +1,6 @@
+{
+  "name": "countdown-polymer",
+  "short_name": "countdown-polymer",
+  "start_url": "/",
+  "display": "standalone"
+}
